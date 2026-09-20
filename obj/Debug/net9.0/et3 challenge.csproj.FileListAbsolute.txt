@@ -1,0 +1,15 @@
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\et3 challenge.exe
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\et3 challenge.deps.json
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\et3 challenge.runtimeconfig.json
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\et3 challenge.dll
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\et3 challenge.pdb
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.AssemblyInfoInputs.cache
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.AssemblyInfo.cs
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.csproj.CoreCompileInputs.cache
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.dll
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\refint\et3 challenge.dll
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.pdb
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\et3 challenge.genruntimeconfig.cache
+C:\Users\TESTN\Tasks\et3 challenge\obj\Debug\net9.0\ref\et3 challenge.dll
+C:\Users\TESTN\Tasks\et3 challenge\bin\Debug\net9.0\sample1.json
