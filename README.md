@@ -7,7 +7,7 @@ A small C# console program that groups a list of delivery requests into vehicle 
 **Requirements:** .NET 9.0 SDK (or the SDK version this project targets)
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ahmed-Elzamly/et3-challenge
 cd "et3 challenge"
 dotnet run
 ```
